@@ -3,5 +3,5 @@ lives = int(input())
 print("PLease enter the energy level")
 level = int(input())
 print("Please enter the shield level")
-level = int
-
+level = int(input())
+print("Health has been set")
